@@ -33,6 +33,6 @@
 * [3711 k의 개수 세기](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203711%20k%EC%9D%98%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)
 
 ## SWEA
-* [1859. 백만 장자 프로젝트]
-* [1983. 조교의 성적 매기기]
-* [10580. 전봇대]
+* [1859. 백만 장자 프로젝트](https://github.com/yun-shin/Algorithmic-problems/blob/master/SWEA/SWEA%201859.%20%EB%B0%B1%EB%A7%8C%20%EC%9E%A5%EC%9E%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/O(n).ipynb)
+* [1983. 조교의 성적 매기기](https://github.com/yun-shin/Algorithmic-problems/blob/master/SWEA/SWEA%201983.%20%EC%A1%B0%EA%B5%90%EC%9D%98%20%EC%84%B1%EC%A0%81%20%EB%A7%A4%EA%B8%B0%EA%B8%B0/SWEA%201983.ipynb)
+* [10580. 전봇대](https://github.com/yun-shin/Algorithmic-problems/blob/master/SWEA/SWEA%2010580.%20%EC%A0%84%EB%B4%87%EB%8C%80/SWEA%2010580.ipynb)
