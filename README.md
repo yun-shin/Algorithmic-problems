@@ -20,17 +20,17 @@
 * [1173 30분 전](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201173%2030%EB%B6%84%20%EC%A0%84.cpp)
 * [1278 자릿수 계산](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201278%20%EC%9E%90%EB%A6%BF%EC%88%98%20%EA%B3%84%EC%82%B0.cpp)
 * [1286 최댓값, 최솟값](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201286%20-%201%20%EC%B5%9C%EB%8C%93%EA%B0%92%2C%20%EC%B5%9C%EC%86%9F%EA%B0%92.cpp) [(2)](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201286%20-%202%20%EC%B5%9C%EB%8C%93%EA%B0%92%2C%20%EC%B5%9C%EC%86%9F%EA%B0%92.cpp)
-* [1369 빗금 친 사각형 출력하기]
-* [1411 빠진 카드]
-* [1510 홀수 마방진]
-* [1807 우박수 길이]
-* [2001 최소 대금]
-* [2055 두 수 a, b의 약수를 구하시오]
-* [3014 기수정렬]
-* [3017 정렬 기준]
-* [3020 기억력 테스트4]
-* [3130 소들의 헤어스타일]
-* [3711 k의 개수 세기]
+* [1369 빗금 친 사각형 출력하기](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201369%20%EB%B9%97%EA%B8%88%20%EC%B9%9C%20%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.cpp)
+* [1411 빠진 카드](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201411%20%EB%B9%A0%EC%A7%84%20%EC%B9%B4%EB%93%9C.cpp)
+* [1510 홀수 마방진](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201510%20%ED%99%80%EC%88%98%20%EB%A7%88%EB%B0%A9%EC%A7%84.cpp)
+* [1807 우박수 길이](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%201807%20%EC%9A%B0%EB%B0%95%EC%88%98%20%EA%B8%B8%EC%9D%B4%20(%EC%A0%95%EB%8B%B5).cpp)
+* [2001 최소 대금](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%202001%20%EC%B5%9C%EC%86%8C%20%EB%8C%80%EA%B8%88.cpp)
+* [2055 두 수 a, b의 약수를 구하시오](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%202055%20%EB%91%90%20%EC%88%98%20a%2C%20b%EC%9D%98%20%EC%95%BD%EC%88%98%EB%A5%BC%20%EA%B5%AC%ED%95%98%EC%8B%9C%EC%98%A4.cpp)
+* [3014 기수정렬](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203014%20%EA%B8%B0%EC%88%98%EC%A0%95%EB%A0%AC.cpp)
+* [3017 정렬 기준](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203017%20%EC%A0%95%EB%A0%AC%20%EA%B8%B0%EC%A4%80.cpp)
+* [3020 기억력 테스트4](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203020%20%EA%B8%B0%EC%96%B5%EB%A0%A5%20%ED%85%8C%EC%8A%A4%ED%8A%B84.cpp)
+* [3130 소들의 헤어스타일](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203130%20%EC%86%8C%EB%93%A4%EC%9D%98%20%ED%97%A4%EC%96%B4%EC%8A%A4%ED%83%80%EC%9D%BC.cpp)
+* [3711 k의 개수 세기](https://github.com/yun-shin/Algorithmic-problems/blob/master/CodeUp/CodeUp%203711%20k%EC%9D%98%20%EA%B0%9C%EC%88%98%20%EC%84%B8%EA%B8%B0.cpp)
 
 ## SWEA
 * [1859. 백만 장자 프로젝트]
