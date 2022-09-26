@@ -38,6 +38,6 @@
 * [10580. 전봇대](https://github.com/yun-shin/Algorithmic-problems/blob/master/SWEA/SWEA%2010580.%20%EC%A0%84%EB%B4%87%EB%8C%80/SWEA%2010580.ipynb)
 
 ## Programers
-* []
-* []
-* []
+* [JadenCase 문자열 만들기](https://github.com/yun-shin/Algorithmic-problems/blob/master/Programmers/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+* [이진 변환 반복하기](https://github.com/yun-shin/Algorithmic-problems/blob/master/Programmers/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.ipynb)
+* [최댓값과 최솟값](https://github.com/yun-shin/Algorithmic-problems/blob/master/Programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.ipynb)
